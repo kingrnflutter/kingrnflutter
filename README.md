@@ -1,7 +1,6 @@
 # Mobile Application Developer ( Flutter / FlutterFlow / React Native )
 
-## Hi there 👋
-
+### Hi there 👋
 I'm a seasoned Flutter developer passionate about building stunning mobile apps
 Armed with a profound command of the Flutter framework, I turn your ideas into tangible brilliance—impeccable designs, seamless animations, and flawless functionality across both Android and iOS platforms, from conception to deployment.
 
